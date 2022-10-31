@@ -15,7 +15,7 @@
 &nbsp;&nbsp;
 ![website](./img/phone.svg) +91 8495011619
 &nbsp;&nbsp;
-![website](./img/linkedin-light.svg) chetankb619@gmail.com
+![website](./img/mail.svg) chetankb619@gmail.com
 &nbsp;&nbsp;
 
 ### Languages and Tools:
