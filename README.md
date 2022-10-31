@@ -5,17 +5,18 @@
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to grow my carrier as a web developer
 - 🥅 2022 Goals: Learn more about NodeJs, Express, and MongoDB
-- 📫 Contact me on Phone: +91 8495011619 or Email - chetankb619@gmail.com
+- 📫 Contact me on Email - chetankb619@gmail.com
 
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://chetanbashetti.netlify.app/)
+[![website](./img/globe-dark.svg)](https://chetanbashetti.netlify.app/)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/chetan-bashetti/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/chetan-bashetti/)
 &nbsp;&nbsp;
-![website](./img/phone.svg) +91 8495011619
-&nbsp;&nbsp;
-![website](./img/mail.svg) chetankb619@gmail.com
+[![website](./img/mail-light.svg)](mailto:chetankb619@gmail.com)
+[![website](./img/mail-dark.svg)](mailto:chetankb619@gmail.com)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
@@ -30,3 +31,9 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="expressjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+
+<br />
+<br />
+
+![Chetans's github stats](https://github-readme-stats.vercel.app/api?username=Chetan-Bashetti&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Bashetti&theme=tokyonight&layout=compact)
