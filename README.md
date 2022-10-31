@@ -7,6 +7,8 @@
 - 🥅 2022 Goals: Learn more about NodeJs, Express, and MongoDB
 - 📫 Contact me on Email - chetankb619@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chetan-Bashetti&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan-Bashetti" /> </p>
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://chetanbashetti.netlify.app/)
