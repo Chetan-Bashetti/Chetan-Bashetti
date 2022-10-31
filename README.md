@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chetan-Bashetti
 - 👀 I’m interested in Full stack web development 
 - 🌱 I’m currently learning Typescript and DSA
-- 💞️ I’m looking to collaborate on ...
 - 📫 Contact on ph: +91 8495011619 or email - chetankb619@gmail.com
 
 <!---
