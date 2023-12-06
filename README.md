@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to grow my carrier as a developer
-- 🥅 2022 Goals: Learn more about NodeJs, Express, and MongoDB
+- 🥅 2024 Goals: Learn more about EmberJs NodeJs, Express, and MongoDB
 - 📫 Contact me on Email - chetankb619@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chetan-Bashetti&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan-Bashetti" /> </p>
