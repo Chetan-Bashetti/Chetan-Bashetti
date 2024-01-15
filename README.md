@@ -2,7 +2,7 @@
 
 ## I'm a Frontend web developer, Learning things to make it Full stack!!
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to grow my carrier as a developer
 - 🥅 2024 Goals: Learn more about EmberJs NodeJs, Express, and MongoDB
 - 📫 Contact me on Email - chetankb619@gmail.com
