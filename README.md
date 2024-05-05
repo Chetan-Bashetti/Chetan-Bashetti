@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to grow my career as a developer
 - 🥅 2024 Goals: Learn more about Python
-- 📫 Contact me on Email - chetankb619@gmail.com
+- 📫 Email me at - chetankb619@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chetan-Bashetti&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan-Bashetti" /> </p>
 
